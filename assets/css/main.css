@@ -51,7 +51,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Georama", sans-serif;
   font-weight: 700;
   margin: 0 0 1.25rem 0;
   color: #2f3030;
@@ -145,7 +145,7 @@ h6, .h6 {
 }
 
 p {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 400;
   font-size: 1rem;
   letter-spacing: 0.1px;
@@ -410,7 +410,7 @@ p:last-child {
 }
 
 a.boxed-btn {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   display: inline-block;
   background-color: #F28123;
   color: #fff;
@@ -418,7 +418,7 @@ a.boxed-btn {
 }
 
 a.bordered-btn {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   display: inline-block;
   color: #fff;
   border: 2px solid #F28123;
