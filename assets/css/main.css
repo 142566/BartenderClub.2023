@@ -1405,7 +1405,7 @@ html, body {
 
 .hero-text p.subtitle {
   color: #ffffff;
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-style: normal;
   font-weight: 600;
   letter-spacing: 0.15px;
@@ -1415,7 +1415,7 @@ html, body {
 }
 
 .hero-text h1 {
-  font-family: Croissant;
+  font-family: "Croissant";
   font-size: 60px;
   font-weight: 600;
   line-height: 56px; /* 93.333% */
@@ -2434,7 +2434,7 @@ ul.social-link-team li a {
 }
 
 p.product-price {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Croissant', sans-serif;
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 15px;
@@ -2448,7 +2448,7 @@ p.product-price span {
 }
 
 a.cart-btn {
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   display: inline-block;
   background-color: #F28123;
   color: #fff;
