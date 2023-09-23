@@ -1415,7 +1415,7 @@ html, body {
 }
 
 .hero-text h1 {
-  font-family: Poppins;
+  font-family: Croissant;
   font-size: 60px;
   font-weight: 600;
   line-height: 56px; /* 93.333% */
@@ -1482,7 +1482,7 @@ input[type="submit"] {
   background-image: url(../img/hero-bg.jpg);
 }
 
-.homepage-bg-2 {
+/*.homepage-bg-2 {
   background-image: url(../img/hero-bg-2.jpg);
 }
 
@@ -1554,7 +1554,7 @@ div.owl-controls, .owl-controls div {
   position: absolute
   rigth: 60px;
   margin-top: -30px;
-}
+}*/
 
 /* -----------------------------------------------------------------------------
 
