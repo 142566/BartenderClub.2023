@@ -1369,7 +1369,9 @@ a.mobile-show.search-bar-icon:hover {
 
 .hero-text {
   display: table;
-  height: 100%;
+  width: 422px;
+  height: 298px;
+  flex-shrink: 0;
 }
 
 .hero-text-tablecell {
@@ -1383,7 +1385,9 @@ a.mobile-show.search-bar-icon:hover {
 }
 
 html, body {
-  height: 100%;
+  width: 422px;
+  height: 298px;
+  flex-shrink: 0;
 }
 
 /*
@@ -1406,7 +1410,7 @@ html, body {
   font-weight: 600;
   letter-spacing: 0.15px;
   font-size: 15px;
-  line-height: 136.9%; /* 20.535px */
+  line-height: 137%; /* 20.535px */
 
 }
 
