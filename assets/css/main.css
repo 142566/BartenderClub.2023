@@ -205,7 +205,7 @@ p:last-child {
   position: absolute;
   top: calc(50% - 3vmax);
   left: calc(50% - 3vmax);
-  border-left: 3px solid #F28123;
+  border-left: 3px solid #1A6B14;
   border-radius: 100%;
   -webkit-animation: spinLeft 800ms linear infinite;
   animation: spinLeft 800ms linear infinite;
@@ -219,7 +219,7 @@ p:last-child {
   position: absolute;
   top: calc(50% - 3vmax);
   left: calc(50% - 3vmax);
-  border-left: 3px solid #F28123;
+  border-left: 3px solid #1A6B14;
   border-radius: 100%;
   -webkit-animation: spinLeft 800ms linear infinite;
   animation: spinLeft 800ms linear infinite;
@@ -288,7 +288,7 @@ p:last-child {
 }
 
 .mb-80 {
-  margin-bottom: 80px;
+  margin-bottom: 50px;
 }
 
 @media only screen and (max-width: 767.96px) {
@@ -402,17 +402,17 @@ p:last-child {
 }
 
 .orange-text {
-  color: #F28123;
+  color: #1A6B14;
 }
 
 .blue-bg {
-  background-color: #162133;
+  background-color: #12161b;
 }
 
 a.boxed-btn {
   font-family: 'Montserrat', sans-serif;
   display: inline-block;
-  background-color: #F28123;
+  background-color: #1A6B14;
   color: #fff;
   padding: 10px 20px;
 }
@@ -421,7 +421,7 @@ a.bordered-btn {
   font-family: 'Montserrat', sans-serif;
   display: inline-block;
   color: #fff;
-  border: 2px solid #F28123;
+  border: 2px solid #1A6B14;
   padding: 7px 20px;
 }
 
