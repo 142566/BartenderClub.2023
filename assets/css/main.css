@@ -1400,13 +1400,14 @@ html, body {
 }*/
 
 .hero-text p.subtitle {
+  margin-top: 12px;
   color: #ffffff;
   font-family: 'Montserrat', sans-serif;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 300;
   letter-spacing: 0.15px;
   font-size: 15px;
-  line-height: 136.9%; /* 20.535px */
+  line-height: 137%; /* 20.535px */
 
 }
 
