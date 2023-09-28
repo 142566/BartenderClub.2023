@@ -49,9 +49,15 @@ h1, .h1,
 h2, .h2,
 h3, .h3,
 <<<<<<< HEAD
+<<<<<<< HEAD
 h4, .h4, 
 h5, .h5,
 h6, .h6, {
+=======
+h4, .h4,
+h5, .h5,
+ {
+>>>>>>> parent of 56bb698 (cambio de h y css)
 =======
 h4, .h4,
 h5, .h5,
@@ -64,7 +70,10 @@ h5, .h5,
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of 56bb698 (cambio de h y css)
 h6, .h6 {
   color: #0A0A0A;
   text-align: center;
