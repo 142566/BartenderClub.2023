@@ -63,7 +63,7 @@ h3:last-child, .h3:last-child,
 h4:last-child, .h4:last-child,
 h5:last-child, .h5:last-child,
 h6:last-child, .h6:last-child {
-  margin: 0;
+  margin: 20px;
 }
 
 h1, .h1 {
