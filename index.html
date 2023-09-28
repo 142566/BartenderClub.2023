@@ -122,7 +122,7 @@
 						<div class="search-bar-tablecell">
 							<h3>Search For:</h3>
 							<input type="text" placeholder="Keywords">
-							<button type="submit">Search <i class="fas fa-search"></i></button>
+							<button type="enviar">Search <i class="fas fa-search"></i></button>
 						</div>
 					</div>
 				</div>
@@ -583,45 +583,107 @@
 	</div>
 	<!-- end logo carousel -->
 
+<!-- contact form -->
+	<div class="contact-from-section mt-150 mb-150">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-4">
+					<link rel="shortcut icon" type="image/jpg" href="assets/img/duda-bg.jpg">
+				</div>
+
+				<div class="col-lg-4 mb-5 mb-lg-0">
+					<div class="form-title">
+						<h2>Te quedo alguna duda?</h2>
+					</div>
+				 	<div id="form_status"></div>
+					<div class="contact-form">
+						<form type="POST" id="fruitkha-contact" onEnviar="return valid_datas( this );">
+							<p>
+								<input type="text" placeholder="Nombre" name="Nombre" id="Nombre">
+								<input type="email" placeholder="Email" name="email" id="email">
+							</p>
+							<p>
+							<!--<input type="tel" placeholder="Phone" name="phone" id="phone">
+								<input type="text" placeholder="Subject" name="subject" id="subject">
+							-->
+						</p>
+							<p><textarea name="mensaje" id="mensaje" cols="30" rows="10" placeholder="mensaje"></textarea></p>
+							<input type="hidden" name="token" value="FsWga4&@f6aw" />
+							<p><input type="Enviar" value="Enviar"></p>
+						</form>
+					</div>
+				</div>
+				<div class="col-lg-4">
+					<div class="contact-form-wrap">
+						<div class="contact-form-box">
+							<h2>Contactanos</h2>
+							<h4><i class="fas fa-map"></i> Dirección</h4>
+							<p>Av. Córdoba 4568 <br> CABA, Buenos Aires <br> Argentina</p>
+						</div>
+						<div class="contact-form-box">
+							<h4><i class="far fa-clock"></i> Horario d atención</h4>
+							<p>Lunes a Viernes: 8 a 17 hs <br> Sábados: 8 a 13 hs </p>
+						</div>
+						<div class="contact-form-box">
+							<h4><i class="fas fa-address-book"></i> Contacto</h4>
+							<p>+54 011 2659 2563 <br>info@bartenderclub.com</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end contact form -->
+
+
+
+
+
 	<!-- footer -->
 	<div class="footer-area">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-3 col-md-6">
+					<link rel="shortcut icon" type="image/png" href="assets/img/favicon.png">
+					</div>
+					
 					<div class="footer-box about-widget">
-						<h2 class="widget-title">About us</h2>
-						<p>Ut enim ad minim veniam perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.</p>
+					<!--<h2 class="widget-title">About us</h2>-->
+						<p>Prohibida la venta alcohólicas a menores de edad. El exceso de alcohol es perjudicial para la salud.</p>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box get-in-touch">
-						<h2 class="widget-title">Get in Touch</h2>
+						<h2 class="widget-title">Menú</h2>
 						<ul>
-							<li>34/8, East Hukupara, Gifirtok, Sadan.</li>
-							<li>support@fruitkha.com</li>
-							<li>+00 111 222 3333</li>
+							<li>Home</li>
+							<li>Suscripción</li>
+							<li>Cócteles</li>
+							<li>Contacto</li>
+							<li>Acerca de</li>
 						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box pages">
-						<h2 class="widget-title">Pages</h2>
+						<h2 class="widget-title">Información y Ayuda</h2>
 						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="services.html">Shop</a></li>
-							<li><a href="news.html">News</a></li>
-							<li><a href="contact.html">Contact</a></li>
+							<li>Formas de pago</a></li>
+							<li>Politicas de privacidad</a></li>
+							<li>Términos y Condiciones</a></li>
+							<li>Preguntas Frecuentes</a></li>
+							<li>Te quedo alguna duda</a></li>
 						</ul>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-6">
 					<div class="footer-box subscribe">
-						<h2 class="widget-title">Subscribe</h2>
-						<p>Subscribe to our mailing list to get the latest updates.</p>
+						<h2 class="widget-title">Newsletter</h2>
+						<p>Subscribite y no te pierdas las novedades de cada mes.</p>
 						<form action="index.html">
 							<input type="email" placeholder="Email">
-							<button type="submit"><i class="fas fa-paper-plane"></i></button>
+							<a href="contact.html" class="boxed-btn">Registrarme</a>
+							<!--<button type="enviar"><i class="fas fa-paper-plane"></i></button>-->
 						</form>
 					</div>
 				</div>
@@ -631,7 +693,7 @@
 	<!-- end footer -->
 	
 	<!-- copyright -->
-	<div class="copyright">
+	<!--<div class="copyright">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
@@ -652,7 +714,7 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div>-->
 	<!-- end copyright -->
 	
 	<!-- jquery -->
