@@ -1560,6 +1560,8 @@ div.owl-controls, .owl-controls div {
 ----------------------------------------------------------------------------- */
 .banner-top {
   background-color: #0b0b0b;
+  margin: 0 auto;
+  padding: 0 1.5rem;
  }
 
   .banner-top p {
