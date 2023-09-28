@@ -45,46 +45,18 @@ a:hover {
   text-decoration: none;
 }
 
-h1, .h1,
-h2, .h2,
-h3, .h3,
-<<<<<<< HEAD
-<<<<<<< HEAD
-h4, .h4, 
-h5, .h5,
-h6, .h6, {
-=======
-h4, .h4,
-h5, .h5,
- {
->>>>>>> parent of 56bb698 (cambio de h y css)
-=======
-h4, .h4,
-h5, .h5,
- {
->>>>>>> parent of 56bb698 (cambio de h y css)
+h1,.h1,
+h2,.h2,
+h3,.h3,
+h4,.h4,
+h5,.h5,
+h6,.h6 {
   font-family:'Croissant One', cursive;
   font-weight: 700;
   margin: 0 0 1.25rem 0;
   color: #2f3030;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> parent of 56bb698 (cambio de h y css)
-h6, .h6 {
-  color: #0A0A0A;
-  text-align: center;
-  font-family:  'Montserrat', sans-serif;
-  font-size: 20px;
-  font-style: normal;
-  font-weight: 700;
-  line-height: normal;
-}
-
->>>>>>> parent of 56bb698 (cambio de h y css)
 h1:last-child, .h1:last-child,
 h2:last-child, .h2:last-child,
 h3:last-child, .h3:last-child,
