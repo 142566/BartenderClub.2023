@@ -606,7 +606,7 @@ nav.main-menu ul li:last-child a {
 }
 
 nav.main-menu > ul li:last-child {
-  float: right;
+  float: inline-end;
 }
 
 .site-logo {
