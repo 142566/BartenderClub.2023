@@ -653,7 +653,7 @@ ul.sub-menu li:last-child {
   font-size: 16px;
   height: 10px;
   line-height: 10px;
-  width: 15px;
+  width: 10px;
 }
 
 .mean-container a.meanmenu-reveal {
@@ -1572,7 +1572,6 @@ div.owl-controls, .owl-controls div {
   color: #F3F3F3;
   font-size: 22px;
   font-style: normal;
-  font-weight: 600;
   line-height: 123.5%;
   letter-spacing: 0.4px;
 }
