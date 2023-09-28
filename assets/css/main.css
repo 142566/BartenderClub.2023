@@ -1560,15 +1560,12 @@ div.owl-controls, .owl-controls div {
 ----------------------------------------------------------------------------- */
 .banner-top {
   background-color: #0A0A0A;
-  font-family: "Montserrat";
-  text-align: center;
-}
+ }
 
   .banner-top p {
-  margin-bottom: 20px;
-  color: #dddddd;
+  font-family:'Montserrat', sans-serif;
   text-align: center;
-  font-family: "Montserrat";
+  color: #ffffff;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
