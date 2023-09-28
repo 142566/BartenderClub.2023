@@ -2630,8 +2630,8 @@ tr.table-total-row {
 
 tr.table-total-row th {
   font-weight: 500;
-  font-size: 15px;
-  padding: 15px;
+  font-size: 9px;
+  padding: 9px;
 }
 
 table.total-table tbody tr.total-data td {
@@ -2805,4 +2805,9 @@ table.order-details tbody td {
   display: table-cell;
   vertical-align: middle;
   width: 100%;
+}
+
+.cambiodepadding {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
