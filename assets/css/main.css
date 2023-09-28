@@ -473,7 +473,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
 }
 
 .section-title {
-  margin-bottom: 80px;
+  margin-bottom: 30px;
 }
 
 .breadcrumb-bg {
@@ -625,7 +625,7 @@ ul.sub-menu li:last-child {
   position: absolute;
   right: 0;
   top: 15px;
-}
+ }
 
 .mean-bar a.meanmenu-reveal {
   background-color: #3F843A;
@@ -1315,11 +1315,11 @@ ul.product-share li:hover a {
   color: #ffe200;
 }
 
-.single-product-item .titulobox h2 {
+.single-product-item {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
-  margin-top: 50px;
+
 }
 
 .single-product-item:hover {
@@ -2206,7 +2206,6 @@ a.video-play-btn {
 .feature-bg {
   background-image: url(../img/fondo-textura.jpg);
   position: relative;
-  margin: 150px 0;
 }
 
 .feature-bg:after {
@@ -2812,4 +2811,8 @@ table.order-details tbody td {
 .cambiodepadding {
   padding-top: 10px;
   padding-bottom: 10px;
+}
+
+.container {
+  margin-bottom: 50px;
 }
