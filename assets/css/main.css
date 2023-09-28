@@ -57,11 +57,6 @@ h6,.h6 {
   color: #2f3030;
 }
 
-h2,.h2 {
-  margin-top: 50px;
-}
-
-
 h1:last-child, .h1:last-child,
 h2:last-child, .h2:last-child,
 h3:last-child, .h3:last-child,
@@ -95,6 +90,8 @@ h2, .h2 {
   font-size: 3rem;
   font-weight: 700;
   line-height: 3.25rem;
+    margin-top: 50px;
+
 }
 
 @media only screen and (max-width: 767.96px) {
