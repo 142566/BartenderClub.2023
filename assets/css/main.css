@@ -2214,7 +2214,7 @@ a.video-play-btn {
   border-top-left-radius: 5px;
   -webkit-box-shadow: 0 0 20px #cacaca;
   box-shadow: 0 0 20px #cacaca;
-  border-bottom-left-radius: 5px;
+  border-bottom-left-radius: 10px;
 }
 
 .team-bg-1 {
