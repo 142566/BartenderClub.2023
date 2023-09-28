@@ -449,7 +449,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   padding-bottom: 15px;
 }
 
-.section-title h3:after {
+/*.section-title h3:after {
   position: absolute;
   content: '';
   left: 0px;
@@ -459,7 +459,7 @@ a.boxed-btn, a.bordered-btn, a.cart-btn {
   height: 2px;
   background-color: #F28123;
   margin: 0 auto;
-}
+}*/
 
 .section-title p {
   font-size: 15px;
@@ -875,7 +875,7 @@ h2.widget-title {
   color: #fff;
 }
 
-h2.widget-title:after {
+/*h2.widget-title:after {
   position: absolute;
   left: 0;
   bottom: 0;
@@ -883,7 +883,7 @@ h2.widget-title:after {
   height: 2px;
   background-color: #F28123;
   content: "";
-}
+}*/
 
 .footer-box p {
   color: #fff;
