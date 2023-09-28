@@ -1584,6 +1584,17 @@ div.owl-controls, .owl-controls div {
 # List Styles
 
 ----------------------------------------------------------------------------- */
+.subtitulo-box h6 {
+  font-family:'Montserrat', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+}
+
+
+
+
 .list-section {
   background-color: #f5f5f5;
 }
