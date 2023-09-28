@@ -57,6 +57,11 @@ h6,.h6 {
   color: #2f3030;
 }
 
+h2 {
+  margin-top: 50px;
+}
+
+
 h1:last-child, .h1:last-child,
 h2:last-child, .h2:last-child,
 h3:last-child, .h3:last-child,
