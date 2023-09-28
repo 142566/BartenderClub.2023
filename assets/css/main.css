@@ -1596,7 +1596,7 @@ div.owl-controls, .owl-controls div {
 
 
 .list-section {
-  background-color: #f5f5f5;
+  background-image: url(../img/fondo-textura.jpg);
 }
 
 .list-box {
@@ -2423,6 +2423,7 @@ ul.social-link-team li a {
 
 .product-filters ul {
   margin: 0;
+  margin-top: 10px;
   padding: 0;
   list-style: none;
   text-align: center;
