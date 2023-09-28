@@ -63,8 +63,8 @@ h3:last-child, .h3:last-child,
 h4:last-child, .h4:last-child,
 h5:last-child, .h5:last-child,
 h6:last-child, .h6:last-child {
-  margin: 0;
-}
+  margin: 0px;
+ }
 
 h1, .h1 {
   font-size: 4rem;
@@ -1315,10 +1315,11 @@ ul.product-share li:hover a {
   color: #ffe200;
 }
 
-.single-product-item {
+.single-product-item .titulobox h2 {
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
+  margin-top: 50px;
 }
 
 .single-product-item:hover {
