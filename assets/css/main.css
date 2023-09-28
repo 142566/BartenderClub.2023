@@ -1599,6 +1599,24 @@ div.owl-controls, .owl-controls div {
   text-align: center;
 }
 
+.subtitulo-box h3 {
+  font-family:'Montserrat', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  margin-left: 5px;
+  margin-bottom: -2px;
+}
+
+.subtitulo-box p {
+  font-family:'Montserrat', sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  margin-left: 5px;
+ 
+}
+
 
 
 
