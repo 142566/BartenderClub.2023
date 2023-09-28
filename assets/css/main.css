@@ -48,23 +48,19 @@ a:hover {
 h1, .h1,
 h2, .h2,
 h3, .h3,
-h4, .h4,
-h5, .h5,
- {
+h4, .h4, {
   font-family:'Croissant One', cursive;
   font-weight: 700;
   margin: 0 0 1.25rem 0;
   color: #2f3030;
 }
 
-h6, .h6 {
-  color: #0A0A0A;
-  text-align: center;
-  font-family:  'Montserrat', sans-serif;
-  font-size: 20px;
-  font-style: normal;
+h5, .h5,
+h6, .h6, {
+  font-family:'Montserrat', sans-serif;
   font-weight: 700;
-  line-height: normal;
+  margin: 0 0 1.25rem 0;
+  color: #0A0A0A;
 }
 
 h1:last-child, .h1:last-child,
