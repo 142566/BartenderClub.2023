@@ -1563,6 +1563,9 @@ div.owl-controls, .owl-controls div {
   width: 1440px;
   height: 241px;
   flex-shrink: 0;
+}
+
+  .p-banner {
   margin-bottom: 20px;
   text-align: center;
   font-family: Montserrat;
