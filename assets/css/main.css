@@ -862,7 +862,7 @@ a.mobile-show {
 }
 
 .footer-area {
-  background-color: #051922;
+  background-color: #000000;
   color: #fff;
   padding: 150px 0;
 }
@@ -2272,8 +2272,8 @@ ul.social-link-team li a {
 .contact-form form p input[type=text], .contact-form form p input[type=tel], .contact-form form p input[type=email] {
   width: 49%;
   padding: 15px;
-  border: 1px solid #ddd;
-  border-radius: 3px;
+  border: 1px solid #B9B9B8;
+  border-radius: 14px;
 }
 
 .contact-form form p textarea {
@@ -2327,10 +2327,10 @@ ul.social-link-team li a {
   padding: 95px 0;
 }
 
-.find-location p i {
+/*.find-location p i {
   margin-right: 10px;
   color: #F28123;
-}
+}*/
 
 #form_status span {
   color: #fff;
